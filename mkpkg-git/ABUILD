@@ -4,7 +4,7 @@ pkgbuild=4
 arch=('noarch')
 shortdesc="mkpkg: AgiliaLinux package building tool"
 
-source="git:git://github.com/khvalera/mkpkg.git"
+source="git:git://github.com/alekstj/mkpkg.git"
 
 tags="dev-util develop"
 
